@@ -43,7 +43,7 @@ public class Fifa {
                     jugadores = equipos[e].getJugadores();
                     for (int j = 0; j < jugadores.length; j++) {
                         jugadores[j] = new Jugador();
-                        jugadores[j].setNombre("messi " + j);
+                        jugadores[j].setNombre("Villa " + j);
                     }
                 }
             }
